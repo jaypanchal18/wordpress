@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>python &#8211; Jay&#039;s Blog</title>
+	<atom:link href="httphttps://jaypanchal18.github.io/wordpress//category/python/feed/" rel="self" type="application/rss+xml" />
+	<link>httphttps://jaypanchal18.github.io/wordpress/</link>
+	<description>Learn Coding For Free</description>
+	<lastBuildDate>Mon, 07 Aug 2023 15:38:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>httphttps://jaypanchal18.github.io/wordpress//wp-content/uploads/2023/08/download.png</url>
+	<title>python &#8211; Jay&#039;s Blog</title>
+	<link>httphttps://jaypanchal18.github.io/wordpress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Python Programming</title>
+		<link>httphttps://jaypanchal18.github.io/wordpress//python-programming/</link>
+					<comments>httphttps://jaypanchal18.github.io/wordpress//python-programming/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 13:51:55 +0000</pubDate>
+				<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">httphttps://jaypanchal18.github.io/wordpress//?p=5</guid>
+
+					<description><![CDATA[PEP 484 previously introduced TypeVar, enabling creation of generics parameterised with a single type. PEP 646 adds TypeVarTuple, enabling parameterisation with an arbitrary number of types. In other words, a TypeVarTuple is a variadic type variable, enabling variadic generics.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-left"><a href="https://peps.python.org/pep-0484/"><strong>PEP 484</strong></a>&nbsp;previously introduced&nbsp;<a href="https://docs.python.org/3/library/typing.html#typing.TypeVar"><code>TypeVar</code></a>, enabling creation of generics parameterised with a single type.&nbsp;<a href="https://peps.python.org/pep-0646/"><strong>PEP 646</strong></a>&nbsp;adds&nbsp;<a href="https://docs.python.org/3/library/typing.html#typing.TypeVarTuple"><code>TypeVarTuple</code></a>, enabling parameterisation with an&nbsp;<em>arbitrary</em>&nbsp;number of types. In other words, a&nbsp;<a href="https://docs.python.org/3/library/typing.html#typing.TypeVarTuple"><code>TypeVarTuple</code></a>&nbsp;is a&nbsp;<em>variadic</em>&nbsp;type variable, enabling&nbsp;<em>variadic</em>&nbsp;generics.</p>
+
+
+
+<p><a href="https://peps.python.org/pep-0484/"><strong>PEP 484</strong></a>&nbsp;previously introduced&nbsp;<a href="https://docs.python.org/3/library/typing.html#typing.TypeVar"><code>TypeVar</code></a>, enabling creation of generics parameterised with a single type.&nbsp;<a href="https://peps.python.org/pep-0646/"><strong>PEP 646</strong></a>&nbsp;adds&nbsp;<a href="https://docs.python.org/3/library/typing.html#typing.TypeVarTuple"><code>TypeVarTuple</code></a>, enabling parameterisation with an&nbsp;<em>arbitrary</em>&nbsp;number of types. In other words, a&nbsp;<a href="https://docs.python.org/3/library/typing.html#typing.TypeVarTuple"><code>TypeVarTuple</code></a>&nbsp;is a&nbsp;<em>variadic</em>&nbsp;type variable, enabling&nbsp;<em>variadic</em>&nbsp;generics.</p>
+
+
+
+<p>This enables a wide variety of use cases. In particular, it allows the type of array-like structures in numerical computing libraries such as NumPy and TensorFlow to be parameterised with the array&nbsp;<em>shape</em>. Static type checkers will now be able to catch shape-related bugs in code that uses these libraries.</p>
+
+
+
+<p>See&nbsp;<a href="https://peps.python.org/pep-0646/"><strong>PEP 646</strong></a>&nbsp;for more details.</p>
+
+
+
+<p>(Contributed by Matthew Rahtz in&nbsp;<a href="https://bugs.python.org/issue?@action=redirect&amp;bpo=43224">bpo-43224</a>, with contributions by Serhiy Storchaka and Jelle Zijlstra. PEP written by Mark Mendoza, Matthew Rahtz, Pradeep Kumar Srinivasan, and Vincent Siles.)</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1920" height="1080" src="httphttps://jaypanchal18.github.io/wordpress//wp-content/uploads/2023/08/Untitled-design-1.png" alt="" class="wp-image-11"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>httphttps://jaypanchal18.github.io/wordpress//python-programming/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
